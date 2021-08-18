@@ -4,7 +4,7 @@ This package contains the MATLAB codes for the algorithm presented in the paper:
 
 R. Liu, W. Dai and C. Zhang, "Multi-target Detection by Distributed Passive Radar Systems without Reference Signals," 2021 IEEE Wireless Communications and Networking Conference (WCNC), Nanjing, China, 2021, pp. 1-5.
 
-The codes demonstrate a feasible way to do the standard blind channel identification task with real values as input and output. To start using the package, run main.m.
+The codes demonstrate a feasible way to do the standard blind channel identification task. To start using the package, run main.m. Note that you need to have [cvx package](http://cvxr.com/cvx/) in order to run our codes.
 
 BibTex of the paper:
 
